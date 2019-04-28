@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 
-import pytest
 from selenium.webdriver.firefox.webdriver import WebDriver
 import unittest
-from group import Group
-from application import Application
+from model.group import Group
+
 
 class test_add_group(unittest.TestCase):
     def setUp(self):

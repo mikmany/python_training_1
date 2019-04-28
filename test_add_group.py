@@ -3,7 +3,7 @@
 
 from selenium.webdriver.firefox.webdriver import WebDriver
 import unittest
-from group import Group
+from model.group import Group
 
 class test_add_group(unittest.TestCase):
     def setUp(self):

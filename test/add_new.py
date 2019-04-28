@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import pytest
-from address import Address
-from group import Group
-from application import Application
+from model.address import Address
+from model.group import Group
+from fixture.application import Application
 
 
 @pytest.fixture
