@@ -13,12 +13,13 @@ def app(request):
 
 
 def test_add_group(app):
-    app.login(user="admin", password="secret")
-    app.create_group(Group(name="anak", header="vbcjd", footer="djvnm"))
+    app.sesion.login(user="admin", password="secret")
+    app.group.create(Group(name="anak", header="vbcjd", footer="djvnm"))
     app.retern_to_groups_page()
+    app.session.logout()
 
 
 def test_add_new(app):
-    app.login(user="admin", password="secret")
+    app.session.login(user="admin", password="secret")
     app.create_address(Address(firstname='mik', lastname='mikh', nickname='mukmany'))
-    app.logout()
+    app.session.logout()
