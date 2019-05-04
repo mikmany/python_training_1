@@ -5,9 +5,9 @@ class GroupHelper:
     def __init__(self, app):
         self.session = SessionHelper(self)
         self.app = app
+
     def open_group_page(self):
         wd = self.app.wd
-        self.app.implicitly_wait(60)
         # открытие страницы со списком групп
         wd.find_element_by_link_text("groups").click()
 

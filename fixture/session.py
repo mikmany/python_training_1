@@ -1,8 +1,6 @@
-
-
 class SessionHelper:
 
-    def __index__(self, app):
+    def __init__(self, app):
         self.app = app
 
     def login(self, user, password):
