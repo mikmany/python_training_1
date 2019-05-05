@@ -4,8 +4,9 @@ from model.group import Group
 
 
 def test_add_group(app):
-    app.session.login(user="admin", password="secret")
+    app.sesion.login(user="admin", password="secret")
     app.group.create(Group(name="anak", header="vbcjd", footer="djvnm"))
+    app.retern_to_groups_page()
     app.session.logout()
 
 

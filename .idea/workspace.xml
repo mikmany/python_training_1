@@ -14,6 +14,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/fixture/application.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -39,29 +40,63 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+=======
+        <entry file="file://$PROJECT_DIR$/test_add_group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding>
+                <element signature="e#26#84#0" expanded="true" />
+              </folding>
+>>>>>>> parent of 95ca3b5... Сравни файлы
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fixture/group.py">
+        <entry file="file://$PROJECT_DIR$/test_add_group_2.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="663">
               <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+=======
+            <state relative-caret-position="170">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/model/group.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+=======
+        <entry file="file://$PROJECT_DIR$/fixture/group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fixture/application.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+>>>>>>> parent of 95ca3b5... Сравни файлы
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/fixture/session.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -75,6 +110,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+=======
+        <entry file="file://$PROJECT_DIR$/test/add_new.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+>>>>>>> parent of 95ca3b5... Сравни файлы
             </state>
           </provider>
         </entry>
@@ -103,12 +147,21 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/tt.py" />
         <option value="$PROJECT_DIR$/address.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/test_add_group_2.py" />
         <option value="$PROJECT_DIR$/application.py" />
         <option value="$PROJECT_DIR$/add_new.py" />
         <option value="$PROJECT_DIR$/test_add_group.py" />
+=======
+        <option value="$PROJECT_DIR$/test_add_group.py" />
+        <option value="$PROJECT_DIR$/test_add_group_2.py" />
+        <option value="$PROJECT_DIR$/application.py" />
+        <option value="$PROJECT_DIR$/add_new.py" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
         <option value="$PROJECT_DIR$/fixture/session.py" />
+        <option value="$PROJECT_DIR$/test/add_new.py" />
         <option value="$PROJECT_DIR$/fixture/application.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/test_del_group.py" />
         <option value="$PROJECT_DIR$/test/test_del_group.py" />
         <option value="$PROJECT_DIR$/test/canftest.py" />
@@ -117,6 +170,9 @@
         <option value="$PROJECT_DIR$/conftest.py" />
         <option value="$PROJECT_DIR$/fixture/group.py" />
         <option value="$PROJECT_DIR$/test/test_del_contact.py" />
+=======
+        <option value="$PROJECT_DIR$/fixture/group.py" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
       </list>
     </option>
   </component>
@@ -132,6 +188,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="python_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,16 +221,9 @@
               <item name="python_training" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
             <path>
-              <item name="python_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="python_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -173,7 +233,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+=======
+    <property name="settings.editor.selected.configurable" value="diff.base" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -195,8 +259,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python tests.pytest in test">
     <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.add_new (1)">
+    <configuration name="add_new (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> parent of 95ca3b5... Сравни файлы
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,7 +277,66 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="C:\Users\petro\PycharmProjects\python_training\conftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="group" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fixture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fixture/group.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/add_new.py" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="pytest for test_del_group.test_delete_first_group" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> parent of 95ca3b5... Сравни файлы
+      <module name="python_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fixture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_del_group.test_delete_first_group&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fixture/application.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +366,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_del_group.test_delete_first_group" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_add_group_2.test_add_group" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+>>>>>>> parent of 95ca3b5... Сравни файлы
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,28 +376,20 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_del_group.test_delete_first_group&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="python_training" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
+<<<<<<< HEAD
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in test_add_new.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+=======
+      <option name="_new_target" value="&quot;test_add_group_2.test_add_group&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_add_group.test_add_group" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+>>>>>>> parent of 95ca3b5... Сравни файлы
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,19 +398,31 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
+<<<<<<< HEAD
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_add_new.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+=======
+      <option name="_new_target" value="&quot;test_add_group.test_add_group&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python tests.pytest in test" />
         <item itemvalue="Python tests.pytest for test_del_group.test_delete_first_group" />
         <item itemvalue="Python tests.pytest in test_add_new.py" />
         <item itemvalue="Python.conftest" />
         <item itemvalue="Python.group" />
+=======
+        <item itemvalue="Python.add_new (1)" />
+        <item itemvalue="Python.group" />
+        <item itemvalue="Python tests.Unittests for test_add_group_2.test_add_group" />
+        <item itemvalue="Python tests.Unittests for test_add_group.test_add_group" />
+        <item itemvalue="Python.application" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
       </list>
     </recent_temporary>
   </component>
@@ -307,6 +440,7 @@
     <servers />
   </component>
   <component name="TestHistory">
+<<<<<<< HEAD
     <history-entry file="pytest_for_test_del_group_test_delete_first_group - 2019.05.05 at 19h 07m 13s.xml">
       <configuration name="pytest for test_del_group.test_delete_first_group" configurationId="tests" />
     </history-entry>
@@ -336,24 +470,67 @@
     </history-entry>
     <history-entry file="pytest_in_test - 2019.05.05 at 19h 50m 38s.xml">
       <configuration name="pytest in test" configurationId="tests" />
+=======
+    <history-entry file="Unittests_for_test_add_group_test_add_group - 2019.04.28 at 18h 23m 12s.xml">
+      <configuration name="Unittests for test_add_group.test_add_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_group_test_add_group - 2019.04.28 at 18h 28m 38s.xml">
+      <configuration name="Unittests for test_add_group.test_add_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_group_test_add_group - 2019.04.28 at 18h 35m 26s.xml">
+      <configuration name="Unittests for test_add_group.test_add_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_group_test_add_group - 2019.04.28 at 20h 22m 12s.xml">
+      <configuration name="Unittests for test_add_group.test_add_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_group_test_add_group - 2019.04.28 at 20h 25m 12s.xml">
+      <configuration name="Unittests for test_add_group.test_add_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_add_group_2_py - 2019.04.28 at 22h 12m 40s.xml">
+      <configuration name="Unittests in test_add_group_2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_group_test_add_group - 2019.04.29 at 20h 44m 53s.xml">
+      <configuration name="Unittests for test_add_group.test_add_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_group_test_add_group - 2019.04.29 at 20h 53m 16s.xml">
+      <configuration name="Unittests for test_add_group.test_add_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_group_test_add_group - 2019.05.04 at 17h 02m 49s.xml">
+      <configuration name="Unittests for test_add_group.test_add_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_group_2_test_add_group - 2019.05.04 at 17h 10m 16s.xml">
+      <configuration name="Unittests for test_add_group_2.test_add_group" configurationId="tests" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+<<<<<<< HEAD
+=======
+    <editor active="true" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.24917382" />
       <window_info id="Structure" order="1" sideWeight="0.5042194" side_tool="true" weight="0.24917382" />
       <window_info id="Favorites" order="2" sideWeight="0.5042194" side_tool="true" weight="0.24917382" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.85393256" visible="true" weight="0.3286119" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4990086" visible="true" weight="0.3286119" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14606741" side_tool="true" weight="0.3286119" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009914" side_tool="true" visible="true" weight="0.3286119" />
+>>>>>>> parent of 95ca3b5... Сравни файлы
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -389,6 +566,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/test/test_add_new.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -417,12 +595,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+=======
+    <entry file="file://$PROJECT_DIR$/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_add_group_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_add_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#26#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/add_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 95ca3b5... Сравни файлы
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
+<<<<<<< HEAD
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
@@ -431,6 +646,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+=======
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 95ca3b5... Сравни файлы
         </state>
       </provider>
     </entry>
