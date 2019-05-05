@@ -5,9 +5,9 @@ class GroupHelper:
     def __init__(self, app):
         self.session = SessionHelper(self)
         self.app = app
+
     def open_group_page(self):
         wd = self.app.wd
-        self.app.implicitly_wait(60)
         # открытие страницы со списком групп
         wd.find_element_by_link_text("groups").click()
 
@@ -28,6 +28,16 @@ class GroupHelper:
         wd.find_element_by_name("group_footer").send_keys(group.footer)
         # клик по созданию
         wd.find_element_by_name("submit").click()
+
+    def delete_first_group (self):
+        # удаление первой группы
+        wd = self.app.wd
+        wd.find_element_by_link_text("groups").click()
+        # выбор первой группы
+        wd.find_element_by_name("selected[]").click()
+        # удаление первой группы
+        wd.find_element_by_name("delete").click()
+        self.retern_to_groups_page()
 
     def retern_to_groups_page(self):
         wd = self.app.wd
