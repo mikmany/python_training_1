@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14bf8e00-a4c7-4f7c-8994-43aa67ff737e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_training.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixture/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixture/group.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/group.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixture/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/session.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/add_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/add_new.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_add_group.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_add_group_2.py" beforeDir="false" />
-    </list>
+    <list default="true" id="14bf8e00-a4c7-4f7c-8994-43aa67ff737e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/fixture/application.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -53,12 +42,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-=======
-        <entry file="file://$PROJECT_DIR$/fixture/session.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
             </state>
           </provider>
         </entry>
@@ -66,37 +49,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fixture/group.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
             <state relative-caret-position="239">
               <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-=======
-            <state relative-caret-position="434">
-              <caret line="31" column="29" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="29" />
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/model/group.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-=======
-        <entry file="file://$PROJECT_DIR$/fixture/application.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="71" lean-forward="true" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
-              </folding>
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fixture/session.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,13 +78,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-=======
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/add_new.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -142,7 +102,6 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,17 +109,10 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/tt.py" />
         <option value="$PROJECT_DIR$/address.py" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/test_add_group_2.py" />
         <option value="$PROJECT_DIR$/application.py" />
         <option value="$PROJECT_DIR$/add_new.py" />
         <option value="$PROJECT_DIR$/test_add_group.py" />
-=======
-        <option value="$PROJECT_DIR$/application.py" />
-        <option value="$PROJECT_DIR$/add_new.py" />
-        <option value="$PROJECT_DIR$/test_add_group.py" />
-        <option value="$PROJECT_DIR$/test_add_group_2.py" />
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
         <option value="$PROJECT_DIR$/fixture/session.py" />
         <option value="$PROJECT_DIR$/fixture/application.py" />
         <option value="$PROJECT_DIR$/test_del_group.py" />
@@ -170,19 +122,15 @@
         <option value="$PROJECT_DIR$/test/conftest.py" />
         <option value="$PROJECT_DIR$/conftest.py" />
         <option value="$PROJECT_DIR$/fixture/group.py" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/test/test_del_contact.py" />
-=======
-        <option value="$PROJECT_DIR$/test/add_new.py" />
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="27" />
-    <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -194,29 +142,27 @@
         <subPane>
           <expand>
             <path>
-              <item name="python_training_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_training_1" type="462c0819:PsiDirectoryNode" />
+              <item name="python_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_training" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="python_training_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_training_1" type="462c0819:PsiDirectoryNode" />
+              <item name="python_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_training" type="462c0819:PsiDirectoryNode" />
               <item name="fixture" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="python_training_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_training_1" type="462c0819:PsiDirectoryNode" />
+              <item name="python_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_training" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_training" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
             <path>
-              <item name="python_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="python_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -236,7 +182,6 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
@@ -260,22 +205,19 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
   <component name="RunManager" selected="Python tests.pytest in test">
     <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
-  <component name="RunManager" selected="Python tests.pytest in add_new.py">
-    <configuration name="pytest for add_new.test_add_group" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="C:\Users\petro\PycharmProjects\python_training\conftest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -307,15 +249,6 @@
       <method v="2" />
     </configuration>
     <configuration name="pytest for test_del_group.test_delete_first_group" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-=======
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;add_new.test_add_group&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in add_new.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,19 +259,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-<<<<<<< HEAD
       <option name="_new_target" value="&quot;test_del_group.test_delete_first_group&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-=======
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/add_new.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_add_group_2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,19 +274,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-<<<<<<< HEAD
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in test_add_new.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-=======
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_add_group_2.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_add_group.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -372,28 +289,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-<<<<<<< HEAD
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_add_new.py&quot;" />
-=======
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_add_group.py&quot;" />
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
         <item itemvalue="Python tests.pytest in test" />
         <item itemvalue="Python tests.pytest for test_del_group.test_delete_first_group" />
         <item itemvalue="Python tests.pytest in test_add_new.py" />
         <item itemvalue="Python.conftest" />
         <item itemvalue="Python.group" />
-=======
-        <item itemvalue="Python tests.pytest in add_new.py" />
-        <item itemvalue="Python tests.pytest in test_add_group_2.py" />
-        <item itemvalue="Python tests.pytest in test_add_group.py" />
-        <item itemvalue="Python tests.pytest for add_new.test_add_group" />
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +317,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-<<<<<<< HEAD
     <history-entry file="pytest_in_add_new_py - 2019.05.05 at 19h 04m 03s.xml">
       <configuration name="pytest in add_new.py" configurationId="tests" />
     </history-entry>
@@ -441,65 +346,12 @@
     </history-entry>
     <history-entry file="pytest_in_test - 2019.05.05 at 19h 26m 47s.xml">
       <configuration name="pytest in test" configurationId="tests" />
-=======
-    <history-entry file="pytest_in_add_new_py - 2019.05.04 at 18h 42m 02s.xml">
-      <configuration name="pytest in add_new.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_add_new_py - 2019.05.04 at 18h 43m 15s.xml">
-      <configuration name="pytest in add_new.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_add_new_py - 2019.05.04 at 18h 44m 07s.xml">
-      <configuration name="pytest in add_new.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_add_new_py - 2019.05.04 at 18h 44m 53s.xml">
-      <configuration name="pytest in add_new.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_add_new_py - 2019.05.04 at 18h 46m 16s.xml">
-      <configuration name="pytest in add_new.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_add_new_py - 2019.05.04 at 18h 48m 07s.xml">
-      <configuration name="pytest in add_new.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_add_new_py - 2019.05.04 at 18h 49m 31s.xml">
-      <configuration name="pytest in add_new.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_add_new_py - 2019.05.04 at 18h 50m 09s.xml">
-      <configuration name="pytest in add_new.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_add_new_py - 2019.05.04 at 18h 52m 13s.xml">
-      <configuration name="pytest in add_new.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_add_new_py - 2019.05.04 at 18h 53m 15s.xml">
-      <configuration name="pytest in add_new.py" configurationId="tests" />
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
-=======
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.24881391" />
-      <window_info id="Structure" order="1" sideWeight="0.5042194" side_tool="true" weight="0.24917382" />
-      <window_info id="Favorites" order="2" sideWeight="0.5042194" side_tool="true" weight="0.24917382" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49868214" visible="true" weight="0.32792208" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50131786" side_tool="true" weight="0.33766234" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.24917382" />
       <window_info id="Structure" order="1" sideWeight="0.5042194" side_tool="true" weight="0.24917382" />
       <window_info id="Favorites" order="2" sideWeight="0.5042194" side_tool="true" weight="0.24917382" />
@@ -551,7 +403,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/model/group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -582,46 +433,12 @@
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#24#57#0" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/geckodriver.log" />
-    <entry file="file://$PROJECT_DIR$/test_add_group_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#25#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_add_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" selection-start-line="3" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/application.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="71" lean-forward="true" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fixture/group.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="239">
           <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
         </state>
@@ -638,20 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-=======
-        <state relative-caret-position="434">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/add_new.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
->>>>>>> 95ca3b57ade232ac35fbc3ae9b7c15b5b81e2b5b
         </state>
       </provider>
     </entry>
